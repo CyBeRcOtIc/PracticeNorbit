@@ -3,5 +3,6 @@
   <Project Path="DataTypes01CompoundInterest/DataTypes01CompoundInterest.csproj" />
   <Project Path="DataTypes02Diamond/DataTypes02Diamond.csproj" />
   <Project Path="DelegateEvent01OrderProcessor/DelegateEvent01OrderProcessor.csproj" />
+  <Project Path="Linq01StoreAnalyticsReport/Linq01StoreAnalyticsReport.csproj" />
   <Project Path="Topic03OOP01DiscountedProducts/Topic03OOP01DiscountedProducts.csproj" />
 </Solution>
