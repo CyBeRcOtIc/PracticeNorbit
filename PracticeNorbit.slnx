@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/BookingSystem/">
+    <Project Path="BookingSystem/BookingSystem.Tests/BookingSystem.Tests.csproj" />
+    <Project Path="BookingSystem/BookingSystem/BookingSystem.csproj" />
+  </Folder>
   <Project Path="Collection01SmartStack/Collection01SmartStack.csproj" />
   <Project Path="DataTypes01CompoundInterest/DataTypes01CompoundInterest.csproj" />
   <Project Path="DataTypes02Diamond/DataTypes02Diamond.csproj" />
