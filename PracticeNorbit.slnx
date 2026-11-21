@@ -10,4 +10,7 @@
   <Project Path="DelegateEvent01OrderProcessor/DelegateEvent01OrderProcessor.csproj" />
   <Project Path="Linq01StoreAnalyticsReport/Linq01StoreAnalyticsReport.csproj" />
   <Project Path="Topic03OOP01DiscountedProducts/Topic03OOP01DiscountedProducts.csproj" />
+  <Folder Name="/TimekeepingApp/">
+    <Project Path="TimekeepingApp/Timekeeping.Api/Timekeeping.Api.csproj" />
+  </Folder>
 </Solution>
