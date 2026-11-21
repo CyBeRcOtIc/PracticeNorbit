@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:5231/api'
+const BASE_URL = import.meta.env.PROD ? '/timekeeping-api/api' : 'http://localhost:5231/api'
 
 async function request(path: string, options: RequestInit = {}) {
   const response = await fetch(`${BASE_URL}${path}`, {
